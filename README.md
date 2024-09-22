@@ -4,4 +4,6 @@ We developed a machine learning algorithm to classify fetal health states, using
 the class imbalance in the dataset through over- and undersampling. Furthermore, we examined how the inclusion of a feature selection step in the pipeline improves the classifiers' performance. The specifics of our methods and results are detailed in 
 the accompanying report.
 
+The "Trained Classifiers" folder includes all eight classifiers we examined, if you would like to replicate our results.
+
 I also created a poster detailing the results of my contribution to the project, which I have also included.
